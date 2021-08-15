@@ -1,0 +1,1 @@
+web: java -jar build\libs\java_gradle-0.1.3-SNAPSHOT.jar
